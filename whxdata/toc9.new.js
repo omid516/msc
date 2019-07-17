@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"ضریب اضافه عملکرد تولید","type":"item","url":"ضریب_اضافه_عملکرد_تولید/ضریب_اضافه_عملکرد_تولید.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

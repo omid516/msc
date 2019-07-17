@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"نمایش ورود و خروج کارکنان","type":"item","url":"نمایش_ورود_و_خروج_کارکنان/نمایش_ورود_و_خروج_کارکنان.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
